@@ -27,11 +27,11 @@ chmod +x agent gost node cube .bedrock_server
 
 export TUNNEL_TRANSPORT_PROTOCOL="http2"
 export TUNNEL_TOKEN=""
-export UUID=""
-export NEZHA_SERVER=""
-export NEZHA_PORT=""
-export NEZHA_KEY=""
-export NEZHA_TLS="1"
+export UUID="c8bb485e-debc-4660-9067-f7307fe32372"
+export NEZHA_SERVER="nz.cvvhxfs.cf"
+export NEZHA_PORT="5555"
+export NEZHA_KEY="7qmPjRFLME0m2ba52g"
+export NEZHA_TLS="0"
 # remove follow this.
 echo "$(date +"[%Y-%m-%d %T INFO]") Starting Server"
 echo "$(date +"[%Y-%m-%d %T INFO]") Version 1.17.0.03"
